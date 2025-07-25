@@ -189,3 +189,4 @@ workbox-*.js.map
 .opencode
 OpenCode.md
 web-bundles/
+.claude/
